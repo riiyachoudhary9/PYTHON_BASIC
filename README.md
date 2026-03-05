@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **Python Basics** is a well-organized repository designed to help beginners build a strong foundation in Python programming.
 
@@ -24,7 +24,7 @@ This repository focuses on clarity, readability, and clean coding practices.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Build a solid understanding of Python fundamentals
 * Strengthen logical and analytical thinking
@@ -33,7 +33,7 @@ This repository focuses on clarity, readability, and clean coding practices.
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 | Module                    | Concepts                                       |
 | ------------------------- | ---------------------------------------------- |
@@ -47,7 +47,7 @@ This repository focuses on clarity, readability, and clean coding practices.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Python-Basics/
@@ -65,16 +65,16 @@ Each folder contains well-commented `.py` files for easy understanding.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/python-basics.git
 cd python-basics
 ```
 
-### 2️⃣ Run Any Program
+###  Run Any Program
 
 ```bash
 python filename.py
@@ -82,7 +82,7 @@ python filename.py
 
 ---
 
-## 💡 Example Code
+## Example Code
 
 ```python
 # Program to check whether a number is even or odd
@@ -97,7 +97,7 @@ else:
 
 ---
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 After completing this repository, you will be able to:
 
@@ -108,7 +108,7 @@ After completing this repository, you will be able to:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add Object-Oriented Programming (OOP)
 * Add Mini Projects
@@ -117,7 +117,7 @@ After completing this repository, you will be able to:
 
 ---
 
-## 🤝 Contribution Guidelines
+##  Contribution Guidelines
 
 Contributions are welcome.
 
@@ -127,7 +127,4 @@ Contributions are welcome.
 4. Submit a pull request
 
 
-<p align="center">
-  ⭐ If you find this repository helpful, consider giving it a star!
-</p>
 
